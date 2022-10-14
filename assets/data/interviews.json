@@ -61,124 +61,182 @@
             ]
         },
         {
-            "name": "Tony",
-            "path": "/tony",
+            "name": "Alison Gu",
+            "path": "/alison",
             "seoDesc": "This is SEO description",
-            "headline": "a guy with a camera",
             "headerimg": "https://res.cloudinary.com/mymediacreative/image/upload/v1646091923/about/Tony_2_bxu33u.png",
-            "age": "23",
-            "occupation": "Math Man",
-            "intro": "Introductory paragraph: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.",
-            "oneQ": "This is the first question",
-            "oneA": "This is the first answer. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.",
-            "avgDay": [
-                {
-                    "time": "8:00 AM",
-                    "activity": "Activity",
-                    "description": "Activity description"
-                },
-                {
-                    "time": "9:00 AM",
-                    "activity": "Activity",
-                    "description": "Activity description"
-                },
-                {
-                    "time": "10:00 AM",
-                    "activity": "Activity",
-                    "description": "Activity description"
-                },
-                {
-                    "time": "11:00 AM",
-                    "activity": "Activity",
-                    "description": "Activity description"
-                }
-            ],
-            "twoQ": "This is the second question",
-            "twoA": "This is the second answer. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.",
-            "threeQ": "This is the third question",
-            "threeA": "This is the third answer. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.",
+            "age": "25",
+            "occupation": "Burnaby City Councillor",
+            "oneQ": "My climate origin story:",
+            "oneA": "I started caring about the environment at a very young age. In second grade, I remember learning about how much water is used with each toilet flush, which first got me concerned about the environment. In high-school, I was president of our environmental club, and then in University, became the VP Environment of our Residents Council. In my second year of university, I started getting involved with climate work in more of an activist way rather than an advocacy oriented way. With Divest McGill, I learned how to organise and mobilise people around one common goal with a political orientation. In 2017, I cycled from Ottawa to Burnaby, against the Trans Mountain Expansion Pipeline. At this time, I also raised money for the indigenous nations, taking the project to court and fighting it. As I was getting very deeply involved in climate organising, I also got involved with the 2019 climate strikes and realised that a lot of what was holding up climate work was political will or lack thereof. And that’s when I started thinking about going into politics.",
+            "twoQ": "A useful skill of mine:",
+            "twoA": "I will preface this answer by noting that the job that you do to get elected is fundamentally different and requires very different skills from the job you do once you’re in office. And just because you’re skilled at one doesn’t mean you’re good at the other. But with respect to the skills that you need after getting into elected office, the first one would probably be being able to work with people. You're working with people in every aspect of your role, and often you're working with people who are upset with you or frustrated with the way things are. People are also the ones who implement policy. As an elected official, you might be the one guiding policy but they’re the ones who will enforce it on the ground. So being able to understand what is needed and what the barriers are to making something happen is a really, really important skill. Another piece that is important is being able to recognize small wins and recognize that not every win is going to be a big win in local politics. You're very restricted by provincial legislation around what you can and cannot do, which means that the kinds of seemingly larger and more impactful decisions are not up to you. We don’t necessarily have control, and our decisions are often overridden by senior levels of government. Coming from being a climate activist and an organiser, I had to learn that smaller decisions we make at a local level still have a hugely impactful ripple effect.",
+            "threeQ": "A piece of advice:",
+            "threeA": "Take every battle squarely on your shoulders. When something doesn’t go as expected, it’s not always your responsibility, your fault or your loss. It’s important not to wear that emotionally. I used to think that empathy was the greatest skill of all time and the most important thing to practise in your everyday life. But on the flip side of that is doing what you need to in order to sustain yourself and retain the energy to keep going. And part of that is not seeing every loss as a step backwards for yourself or your movement. Everyone has their own niche about what they care about most and how they want to affect change, and every piece of that is truly, truly needed. I think the best way to think about it is that we need everybody to do something imperfectly rather than a few people doing it perfectly. I often find my emotions getting wrapped up in the work that I’m doing, where something not going as planned feels like a loss that I wear on my shoulders. But that really wears you down over time and means you're not as resilient or not as strong to do other things. So it’s important to recharge, to make sure that you’re well. When things start feeling too much or too big, break it down into what you can do and what actionable changes you can make.",
             "starterPack": [
                 {
-                    "title": "Resource Title",
-                    "type": "Resource Type",
-                    "link": "https://github.com"
-                },
-                {
-                    "title": "Resource Title",
-                    "type": "Resource Type",
-                    "link": "https://github.com"
-                },
-                {
-                    "title": "Resource Title",
-                    "type": "Resource Type",
-                    "link": "https://github.com"
-                },
-                {
-                    "title": "Resource Title",
-                    "type": "Resource Type",
-                    "link": "https://github.com"
+                    "title": "Knock down the House",
+                    "type": "Documentary",
+                    "link": "https://knockdownthehouse.com"
                 }
             ]
         },
         {
-            "name": "Dom Petti",
-            "path": "/dompetti",
+            "name": "Emma Macintosh",
+            "path": "/emma",
             "seoDesc": "This is SEO description",
-            "headline": "a guy with a camera",
             "headerimg": "https://res.cloudinary.com/mymediacreative/image/upload/v1645693934/blog-placeholder_csxpbc.png",
-            "age": "23",
-            "occupation": "Math Man",
-            "intro": "Introductory paragraph: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.",
-            "oneQ": "This is the first question",
-            "oneA": "This is the first answer. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.",
+            "age": "26",
+            "occupation": "Reporter at The Narwhal",
+            "oneQ": "My climate origin story:",
+            "oneA": "My grade 12 year, my school counsellor had told me about this random journalism elective. I had been told to drop a more difficult course and to take an easier one. I had chosen the journalism class because I only had to write about 500 words a month and I thought, that’s easy! But very quickly, it started consuming my life. I had a scary thought one day when I was sitting in the newspaper office, thinking “I wish I could do this every day, all the time”. Within two months of giving it a try, I was sold on it. From there, I just kind of went through the pipeline – journalism school, internships etc. The second day of my second internship in Calgary, the Fort McMurray wildfires happened. Twenty-year-old me was thrown into wildfire evacuations, writing stories and trying to link climate science to what was happening there. A little while after that, I got offered the opportunity to do a project at the university, an investigative story on the impacts of the oil industry on people. It was called The Price of Oil. I knew that investigative journalism was something I was interested in, but it hadn't really occurred to me that the environment could be a serious investigative beat. But all of a sudden, I’m working on this super serious, in-depth and hard hitting investigation on environmental issues. This is when I thought, this is definitely what I want to do forever. It just so happened that this was happening as the public was also starting to get more interested in climate issues. By being a person who was interested in the same issues, I could fill the existing gap in coverage.",
+            "twoQ": "How I keep going when I hit a wall:",
+            "twoA": "Part of it is just sheer stubbornness. Once I commit to a story, I know I'm going to make it happen. Even if it's hard, I will get there. I shift into this other gear, especially closing out an investigation, and I probably feel the most alive in those final days. I become hyper aware, hyper vigilant and super efficient. But what keeps me grounded beyond that is remembering that I’m doing it. I was lucky to grow up with a lot of access to the outdoors and the Great Lakes. And even over my lifetime, I've seen those places change a lot. In some ways better because people are trying harder to preserve them, and in some ways worse due to the cumulative effects of what's been happening for centuries now. Remembering those changes and remembering that it's not just a story but that these are people's lives definitely fuels the hyperdrive that my brain goes into.",
+            "threeQ": "A piece of advice:",
+            "threeA": "For me, it's really about making sure that I'm doing everything I can to get people from different perspectives to the table. It's this concept that the Narwhal works with a lot. Complicating the narrative is often the easiest and shortest route to finishing a story but is something that highlights the differences between sides rather than attempting to bridge the gap between them. When you do journalism that way, you can often make conflicts worse or make it harder for people to see a resolution. So for me, it’s a constant process of steering my brain towards doing something that is harder but that ends up being better, like asking more thoughtful questions. Sometimes it's things like “What do you wish the other side understood about you?” Or “What do you think people misunderstand about you?” The other part of it is just trying to convince people who are already predisposed to think that I'm not going to listen to them, that I actually will. Sometimes that makes people angry. I did a profile interview with the progressive conservative environment minister who's not a beloved figure in the climate movement. People were upset with me about that. But my real and honest opinion is that we need everybody on all reasonable ends of the political spectrum to be involved in this discussion if we're going to find a way to make this work as a society. Hearing them out and fact checking everybody the same way is an important thing in making sure that our discussions are more complicated and nuanced and therefore more productive. My job is to expose you to different opinions and different ways of thinking. And by convincing people from more sides of an issue to trust me and tell me what they think, hopefully we can deliver that.",
+            "starterPack": [
+                {
+                    "title": "Still Hopeful: Lessons from a Lifetime of Activism by Maude Barlow",
+                    "type": "Book",
+                    "link": "https://www.goodreads.com/en/book/show/59034563-still-hopeful"
+                },
+                {
+                    "title": "Grouse",
+                    "type": "Podcast",
+                    "link": "https://www.npr.org/podcasts/913607568/grouse"
+                },
+                {
+                    "title": " Toronto Star's reporting on Grassy Narrows",
+                    "type": "Articles",
+                    "link": "https://www.thestar.com/news/grassy-narrows.html"
+                }
+            ]
+        },
+        {
+            "name": "Kasha Sequoia Slavner",
+            "path": "/kasha",
+            "seoDesc": "This is SEO description",
+            "headerimg": "https://res.cloudinary.com/mymediacreative/image/upload/v1646091923/about/Tony_2_bxu33u.png",
+            "age": "24",
+            "occupation": "Director of 1.5 Degrees of Peace, Founder of Global Sunrise Project",
+            "oneQ": "My climate origin story:",
+            "oneA": "I grew up with a single mom and she was kind of a strong activist in her own right. She would bring me along to all of her gatherings when I was little. By listening to the people that she surrounded herself with, the feminist groups or a lot of environmental groups, allowed me to absord those conversations and values. When I turned 14, I went to my very first gender equality conference of the United Nations, which was called the Commission on the Status of Women. As a young person who cared about the world around me, it was eye opening to learn that what I was seeing on the news was very one sided and wasn’t uplifting the stories of people who were really trying to transform their communities. It wasn’t showcasing how everyday people could make a difference despite all of these really overwhelming challenges that our world is faced with. That conference really sparked me to think about what I could do to create change and empower others to do the same. Through storytelling, I felt I could bring these stories to life and maybe empower others to take action too.",
+            "twoQ": "A useful skill of mine:",
+            "twoA": "I've always been a quiet, shy, and introverted person that was quite interested in sitting back and observing. That side of my nature helps me to go into my work with a lot of sensitivity and mindfulness about the way that I tell stories and the way that I connect with people. I really want to be mindful about not imposing narratives on people, so it’s important to me to create a space where people can tell their own story. It surprised me that that is an integral part of what I do and my ability to be a filmmaker. With a lot of professions, it requires you to be more extroverted or play up a different side of your personality. It surprised me how valuable it is to let the most intuitive side of myself take the front seat when I’m filmmaking.",
+            "threeQ": "A piece of advice:",
+            "threeA": "Something that I'm always conscious of, especially because I'm a filmmaker from the Global North, is trying to uplift the stories of those in the Global South. I think filmmaking is more of a collaborative process to me rather than imposing your own bias or your own narratives on other communities. I think filmmaking is my act of activism, the way that I hope to make change in the world. I want to be mindful of not just doing fly-in filmmaking. That is something that can happen a lot in the documentary field, going to a location for a very short period of time and extracting stories. So how can you really immerse yourself in a community? How can you gain trust? How can you build partnerships? This also comes into the post film-like impact, where I want to co-create call to action strategies or things that people can take action on. For that you have to understand what is most important to the communities that we're working with. How your own privilege plays into the stories that you’re telling is something that I’m very mindful of and that I want to caution other storytellers to be mindful of too.",
+            "starterPack": [
+                {
+                    "title": "Meat the Future - Liz Marshall",
+                    "type": "Documentary",
+                    "link": "https://lizmars.com/portfolio/meat-the-future"
+                },
+                {
+                    "title": "Earthrise Studio",
+                    "type": "Instagram Page",
+                    "link": "https://www.instagram.com/earthrise.studio"
+                }
+            ]
+        },
+        {
+            "name": "Lauren McElroy",
+            "path": "/lauren",
+            "seoDesc": "This is SEO description",
+            "headerimg": "https://res.cloudinary.com/mymediacreative/image/upload/v1646091923/about/Tony_2_bxu33u.png",
+            "age": "26",
+            "occupation": "Horticulture Technician for the City of Waterloo, Research assistant for the University of Waterloo",
+            "oneQ": "My climate origin story:",
+            "oneA": "When I graduated high school and before starting university, I went to Costa Rica for a year to volunteer for a sea turtle conservation project. And I just fell in love with it and with turtles. They’re incredibly delicate and wise. They take things easy and it’s just a reminder that we should all do the same. I also worked for the city of Cambridge and having to pull out the milkweed would always break my heart because it's the only plant that monarchs lay their eggs on and eat. I would bring the leaves with eggs on them home or to the Butterfly Conservatory. I ended up raising monarchs with dozens of eggs and caterpillars  in my bedroom. There were four or five of us that had monarchs in our bedrooms that way. Our frustration with pulling out the milkweed got to the point where we got the Mayor of Cambridge involved, so that we would stop pulling milkweed. And Cambridge now has gardens dedicated for monarchs with milkweed that has grown and restored specifically for them. It was pretty cool to see other people equally passionate about what I cared about.  And for those who were irritated by our passion, it just fueled my fire.",
+            "twoQ": "A useful skill of mine:",
+            "twoA": "I think that my kindness penetrates through. Even when there’s people that don’t care about, for example, the caterpillars, it’s just a matter of, like, sitting them down and having a one on one conversation on why I'm passionate about it. It’s important to be kind to them in a way where I'm also trying to educate them. It’s a reciprocal relationship. I think my kindness has gone further than I would have expected in minor conversations, trying to help educate people around issues I care about.",
+            "threeQ": "A piece of advice:",
+            "threeA": "Sometimes, I think my love for animals can be overwhelming. I’ll let it get in the way of what I’m sometimes asked to do. In the case of the monarchs, I didn’t want to pull it out, I didn't want to kill it. At the same time, my boss is telling me to do it and I should respect what I’m being asked to do. So sometimes, my passion for plants and animals can be a downfall when I let it shadow out what I’m actually supposed to be doing.",
+            "starterPack": [
+                {
+                    "title": "Braiding Sweetgrass – Robin Wall Kimmerer",
+                    "type": "Book",
+                    "link": "https://www.goodreads.com/en/book/show/17465709-braiding-sweetgrass"
+                },
+                {
+                    "title": "Planet Earth",
+                    "type": "Series",
+                    "link": "https://www.bbcearth.com/planet-earth"
+                }
+            ]
+        },
+        {
+            "name": "Lena Courcal",
+            "path": "/lena",
+            "seoDesc": "This is SEO description",
+            "headerimg": "https://res.cloudinary.com/mymediacreative/image/upload/v1646091923/about/Tony_2_bxu33u.png",
+            "age": "27",
+            "occupation": "Financial Analyst",
+            "oneQ": "My climate origin story:",
+            "oneA": "I had always enjoyed the environment. In high-school, chemistry, biology and geography were my three favourite sobjects. I knew I wanted to go into something that mixed all three of those together. At the same time, though, both my parents come from business backgrounds. So despite my scientific liking in school, I always had this business lens through which I saw the world. When I left for university, I wanted to start by building a really robust foundation of my environmental knowledge before going into something like environmental consulting or sustainability consulting. I did a McGill Arts and Science undergraduate in Environment and really enjoyed the interdisciplinary approach. I came out of my undergraduate feeling like I knew a lot about lots of different things, but never at a particularly deeper level. Knowing that I wanted to study the mix between business and the environment, I applied to the Columbia Masters in Sustainability Management thinking that I would never, ever get in. Fast forward, I got in! That is then where I learned the applied skills I was looking for. I did a little bit of finance, accounting, and other more technical environmental skills. I did an Internship at SIA in Impact Investing, and then started my job at New Market Funds. I always knew that this was going to be a temporary job, kind of like a trampoline point that allowed me to move back to Canada and get a good oversight of what is happening in the Canadian Space. But I ended up really enjoying working at New Market Funds, so I told them I wanted to continue impact investing as a financial analyst. Because I didn’t have any of the technical know-how for the role, they ended up training me on the job and I’ve now been here for a year!",
             "avgDay": [
                 {
-                    "time": "8:00 AM",
-                    "activity": "Activity",
-                    "description": "Activity description"
+                    "time": "7:00 AM",
+                    "activity": "Waking Up",
+                    "description": "I usually have a tall glass of either hot water or tea. I’ll also do a workout, either pilates or HIIT, and then I’ll shower and get ready for work."
                 },
                 {
                     "time": "9:00 AM",
-                    "activity": "Activity",
-                    "description": "Activity description"
-                },
-                {
-                    "time": "10:00 AM",
-                    "activity": "Activity",
-                    "description": "Activity description"
+                    "activity": "Work",
+                    "description": "I start work at 9. I’ll make myself a smoothie and will start by opening my emails to get through all of the admin work that needs to get done every day."
                 },
                 {
                     "time": "11:00 AM",
-                    "activity": "Activity",
-                    "description": "Activity description"
+                    "activity": "Deals",
+                    "description": "After getting the admin work, bill approvals and payments out the door, I start looking for deals. Because we look at rental housing, I’ll try to find multi residential buildings that are going for sale, before contacting brokers and reaching out to them."
+                },
+                {
+                    "time": "1:00 PM",
+                    "activity": "Modeling",
+                    "description": "In the afternoon, I do some modeling, either on these new found deals or iterations of existing deals. This also involves some due diligence work of looking through paperwork and analysing if certain financial elements match the industry standards."
+                },
+                {
+                    "time": "3:00 PM",
+                    "activity": "Writing Memos",
+                    "description": "I’ll spend some time writing memoirs, either for internal approvals of deals or for investment committees. It’s interesting having to zoom out and think about why certain deals are important, why they are attractive, and what risks are associated with them."
+                },
+                {
+                    "time": "5:00 PM",
+                    "activity": "Winding Down",
+                    "description": "As my day comes to an end, I’ll always check my email to make sure there isn’t anything urgent that’s remaining."
                 }
             ],
-            "twoQ": "This is the second question",
-            "twoA": "This is the second answer. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.",
-            "threeQ": "This is the third question",
-            "threeA": "This is the third answer. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.",
-            "starterPack": [
-                {
-                    "title": "Resource Title",
-                    "type": "Resource Type",
-                    "link": "https://github.com"
-                },
-                {
-                    "title": "Resource Title",
-                    "type": "Resource Type",
-                    "link": "https://github.com"
-                },
-                {
-                    "title": "Resource Title",
-                    "type": "Resource Type",
-                    "link": "https://github.com"
-                },
-                {
-                    "title": "Resource Title",
-                    "type": "Resource Type",
-                    "link": "https://github.com"
-                }
-            ]
+            "twoQ": "A useful skill of mine:",
+            "twoA": "I feel like when people think of financial analysts, they think of the technical, accounting, and finance aspect. But I don't necessarily think you need to be that good at maths. Maths was never an A-plus subject for me. But I do think you have to be relatively creative and be able to see the bigger picture. All of your maths is being applied to the real world and if you don’t see the bigger picture, it’s difficult to create something that is relevant. If a deal doesn’t work, for example, there are many different levers through which you can turn it into something that could work. So being creative and being able to see how the maths applies to the real world is an important skill.",
+            "threeQ": "A piece of advice:",
+            "threeA": "A few years ago, I realised that I often got caught up in wanting to create a process. In order to get to a certain place, I was stuck in needing to create and follow a very logical path. But in doing so, you put on blinders and don’t necessarily see what other paths could get you to a certain place. I’ve benefited from people reminding me to take a moment, step back and think about things in a different way. Collaboratively, we always come up with approaches that I would have never thought of. So I recommend taking a moment, being less process driven and trying to see what other opportunities exist.",
+        },
+        {
+            "name": "Sophia Yang",
+            "path": "/sophia",
+            "seoDesc": "This is SEO description",
+            "headerimg": "https://res.cloudinary.com/mymediacreative/image/upload/v1646091923/about/Tony_2_bxu33u.png",
+            "age": "26",
+            "occupation": "Founder and Executive Director at Threading Change",
+            "oneQ": "My climate origin story:",
+            "oneA": "I always had a really big interest in fashion. I remember in high school I would go to the mall pretty much every week. I would go to Forever 21 or Old Navy and buy the cheap clothes of a typical teenager. I fell into the climate world through trying to rectify my path and understand how that system was inherently broken. But the watershed moment was when I attended COP25 in 2019, the U.N Climate Change Conference in Madrid. I remember being at the one year anniversary signing of the UN Sustainable Fashion Charter and looking at the 11 people that were standing on that stage. There were four main things I noticed at that moment. Number one, they said we're up here today representing the global fashion industry, when there were no garment workers up there and when there was only one visible person of colour. Everybody else was Caucasian from either Europe or America. Number two, there were no young people present in any of the panels, any of the talks, even though they are one of the largest consumers of fashion and also the leaders of tomorrow. The third thing I noticed was that there was no mention of any of the humanitarian impacts of fashion. The fashion industry cannot be boiled down to just the sustainability side when it really is so intersectional. There are real people and real lives behind your clothes that are suffering at the hands of overconsumption, overproduction and corporate greed. So from that moment on, I was determined to create change wherever possible. In May 2020, when my work hours got cut in half because of the pandemic, I had more free time on my hands and I took the opportunity to talk to as many people as I possibly could about ethical fashion, sustainable sourcing and also circular economy. And from then, the idea of Threading Change was born. In October 2020, we officially launched as a not for profit organisation, and we've been growing and learning change ever since.",
+            "twoQ": "A useful skill of mine:",
+            "twoA": "A skill that's crucial that I've had to learn and realise is delegation and prioritisation. When you are a nonprofit founder, you wear so many hats – whether it's budgeting, financial projections, partnerships, sponsorship or managing the board, it’s really easy to get overwhelmed with all these different things. I realise now that delegation is so important. I had to understand what skills I don’t have to try and find people that fill that need while still aligning with our organisation’s values. The other thing is its prioritisation. There's a billion things to do every single day, and you can easily get lost. What I've learned throughout the last couple of years is that you have to really think about the end goal. In the grand scheme of things, does it really matter what the digital asset looks like if it's only going to be used just for this one particular campaign? I used to be a very to-do-list kind of person, getting so bogged down by the details, that I would lose track of the bigger picture. And the last skill that is imperative for anything you do is the willingness to learn, the openness to fail, and also the willingness to to be criticised and to hear feedback. There's always room to grow, there's always room to improve and recognizing that is really important for me as we move along with the organisation.",
+            "threeQ": "A piece of advice:",
+            "threeA": "I would say the most important thing is to be wary of the comparison game. It's so easy to compare your journey to someone else's. Healthy competition is always okay if it keeps you going and keeps you motivated. But be careful not to get lost in another person's journey. Their story isn’t your story. It’s not your journey. It's not your life. You have to carve your own path, understand what you're good at and take hold of that strategically. I think that's the best advice I can give because I fell into that trap. And while sometimes it's helped me be inspired and stay motivated, other times it has made me fall asleep when really I could have been focused on the things that we're good at. Don't play the comparison game because you're your own person with your own skill sets on your own journey.",
+        },
+        {
+            "name": "Sylvie Stojanovski",
+            "path": "/sylvie",
+            "seoDesc": "This is SEO description",
+            "headerimg": "https://res.cloudinary.com/mymediacreative/image/upload/v1646091923/about/Tony_2_bxu33u.png",
+            "age": "23",
+            "occupation": "Multidisciplinary artist, creative facilitator and community organiser",
+            "oneQ": "My climate origin story:",
+            "oneA": "I've always been interested in combining art and the environment, but I didn't know how to approach it. For the longest time, I felt I didn't know enough about the climate. Movement and found it really intimidating. I felt like I didn't have the language to navigate the space. But there are two core experiences that really solidified this direction of wanting to support climate action. First, in 2018, I went on a backpacking trip to Peru with Operation Groundswell, which is an ethical travel company. I went there with the intention of getting to know myself better, but also wanting to experience a culture different from my own. So being from North America, it was the first time I had ever gotten on a plane. But when I got there, one of the excursions we had was to a community that was right near mines that were being run by Canada and Switzerland. We got to talk to community members and learned how the mines were impacting their day to day lives. Their water was getting poisoned and had become undrinkable, children were being born with birth defects, and a once thriving community was now sitting on the poverty line because of the impacts of these mines. And even though locals protested certain aspects of the mines, their calls remained unheard. That experience really put a toll on my heart, I would even say it was the first big heartbreak that led me into environmental work. The second thing was when the pandemic hit. I got into the practice of going on daily morning walks. One day, I was walking after a particularly bad storm, and along the shore, I saw a rainbow of oil traces. This was in my own backyard, the place I would travel by every day on my way to school. And seeing people disrespecting the land in my own backyard was the final straw. I saw these issues on a national level in terms of relations between Canada, Switzerland and Peru and the mining. But then seeing them at a local level, in my own backyard was the final heartbreak, the last straw. I needed to figure out how to do something. I started doing a lot of research, reading, and watching YouTube videos. And I came across the Youth Climate Leadership Program, where they train individuals who are interested in taking action but don't really know where to begin. And that was what set me on the course of my climate action journey. I also connected with the Youth Youth Climate Lab in 2020 and got to do a residency as a youth artist. This was my introduction to how you can combine your love of art, your love of storytelling, your love of producing things in public space with the desire to be a part of the climate action movement and the desire to make a difference.",
+            "twoQ": "A piece of advice:",
+            "twoA": "I'd say don't let the language and the politics of the climate action movement deter you from taking action. It’s easy to feel like a fish out of water, coming into a new space where you might not know as much or think you know as much as you need to to navigate it. I think especially as a woman, impostor syndrome is something that I deal with a lot. So acknowledge the fact that that's something that you're experiencing or that those emotions that you're experiencing are real, process them through journaling, through whatever makes sense to you, and then figure out how to move forward in a way that's authentic to your values. Collaborators and mentors can be incredibly important in that process. Connecting with and having somebody to bounce ideas off of is invaluable. Don't be afraid to connect with people outside of your art bubble if you are very much ingrained in it or in it, don't be afraid to move outside of it. Recognize your positionality within the world, the intersections of your identity, and hold space for the fact that there's other people in the climate movement who might have been around longer but who can help guide you on your journey.",
+            "threeQ": "What gives me the energy to keep going:",
+            "threeA": "Reminding myself of the why behind the work. That often means going back out and connecting with community members or connecting with the land. I also have my room filled with quotes that inspire me or with thank you notes from people. These remind me that my work is valuable. Sometimes before I do a project, I'll write down the reasons why I am doing it. It makes it easier to go back and see whether what I’m doing is in alignment with what I am feeling. And if it isn’t, it sometimes makes sense to step away from the project for a little bit, give it space to breathe before coming back to it. I find that when I’m not working with the community, I burn out really quickly. I need to be talking with people and need community collaboration to keep going.",
         }
     ]
 }
